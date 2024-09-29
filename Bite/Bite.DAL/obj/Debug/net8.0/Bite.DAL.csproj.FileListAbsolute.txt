@@ -1,0 +1,17 @@
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.DAL.deps.json
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.DAL.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.DAL.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.Core.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.Model.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.Core.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\bin\Debug\net8.0\Bite.Model.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.csproj.AssemblyReference.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.AssemblyInfoInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.AssemblyInfo.cs
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.csproj.CopyComplete
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\refint\Bite.DAL.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\Bite.DAL.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.DAL\obj\Debug\net8.0\ref\Bite.DAL.dll

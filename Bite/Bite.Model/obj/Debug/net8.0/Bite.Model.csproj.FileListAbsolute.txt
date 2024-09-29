@@ -1,0 +1,11 @@
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\bin\Debug\net8.0\Bite.Model.deps.json
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\bin\Debug\net8.0\Bite.Model.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\bin\Debug\net8.0\Bite.Model.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\Bite.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\Bite.Model.AssemblyInfoInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\Bite.Model.AssemblyInfo.cs
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\Bite.Model.csproj.CoreCompileInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\Bite.Model.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\refint\Bite.Model.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\Bite.Model.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Model\obj\Debug\net8.0\ref\Bite.Model.dll

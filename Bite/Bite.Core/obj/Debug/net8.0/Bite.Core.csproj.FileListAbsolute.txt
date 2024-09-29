@@ -1,0 +1,11 @@
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\bin\Debug\net8.0\Bite.Core.deps.json
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\bin\Debug\net8.0\Bite.Core.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\bin\Debug\net8.0\Bite.Core.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\Bite.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\Bite.Core.AssemblyInfoInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\Bite.Core.AssemblyInfo.cs
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\Bite.Core.csproj.CoreCompileInputs.cache
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\Bite.Core.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\refint\Bite.Core.dll
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\Bite.Core.pdb
+C:\Users\cleid\OneDrive\Área de Trabalho\Bite\Bite\Bite.Core\obj\Debug\net8.0\ref\Bite.Core.dll

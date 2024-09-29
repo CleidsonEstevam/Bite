@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.UI\\Bite.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Bo\\Bite.BO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Bo\\Bite.BO.csproj",
+        "projectName": "Bite.BO",
+        "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Bo\\Bite.BO.csproj",
+        "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Bo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj"
+              },
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.DAL\\Bite.DAL.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.DAL\\Bite.DAL.csproj"
+              },
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj",
+        "projectName": "Bite.Core",
+        "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj",
+        "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.DAL\\Bite.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.DAL\\Bite.DAL.csproj",
+        "projectName": "Bite.DAL",
+        "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.DAL\\Bite.DAL.csproj",
+        "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj"
+              },
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj",
+        "projectName": "Bite.Model",
+        "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj",
+        "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.UI\\Bite.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.UI\\Bite.UI.csproj",
+        "projectName": "Bite.UI",
+        "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.UI\\Bite.UI.csproj",
+        "packagesPath": "C:\\Users\\cleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Bo\\Bite.BO.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Bo\\Bite.BO.csproj"
+              },
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Core\\Bite.Core.csproj"
+              },
+              "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj": {
+                "projectPath": "C:\\Users\\cleid\\OneDrive\\Área de Trabalho\\Bite\\Bite\\Bite.Model\\Bite.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
